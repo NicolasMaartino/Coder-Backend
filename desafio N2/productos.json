@@ -1,0 +1,39 @@
+[
+	{
+		"nombreProducto": "Alfajor grandote",
+		"descripcionProducto": "Doble y triple sabor",
+		"precio": 100,
+		"rutaDeImagen": "/asdasdas.1",
+		"codigoProducto": "AG02",
+		"stock": 130,
+		"id": 1,
+		"campoActualizar": "130"
+	},
+	{
+		"nombreProducto": "Alfajor grandote",
+		"descripcionProducto": "Doble y triple sabor",
+		"precio": 100,
+		"rutaDeImagen": "/asdasdas.1",
+		"codigoProducto": "AG02",
+		"stock": 100,
+		"id": 2
+	},
+	{
+		"nombreProducto": "Alfajor grandote",
+		"descripcionProducto": "Doble y triple sabor",
+		"precio": 100,
+		"rutaDeImagen": "/asdasdas.1",
+		"codigoProducto": "AG02",
+		"stock": 100,
+		"id": 3
+	},
+	{
+		"nombreProducto": "Block",
+		"descripcionProducto": "Cofler",
+		"precio": 100,
+		"rutaDeImagen": "/asdasdas.1",
+		"codigoProducto": "AG05",
+		"stock": 100,
+		"id": 4
+	}
+]
